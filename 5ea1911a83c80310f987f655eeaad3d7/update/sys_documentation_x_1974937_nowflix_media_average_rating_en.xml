@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="average_rating" label="Average rating" language="en" table="x_1974937_nowflix_media">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>average_rating</element>
+            <help/>
+            <hint/>
+            <label>Average rating</label>
+            <language>en</language>
+            <name>x_1974937_nowflix_media</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-07 14:48:38</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Average rating</sys_name>
+            <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
+            <sys_update_name>sys_documentation_x_1974937_nowflix_media_average_rating_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-07 14:48:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1cca7de2838c8310f987f655eeaad3a3" extends="task" label="Review" max_length="40" name="x_1974937_nowflix_review" type="collection">
+        <element label="Reproval reason" max_length="4000" name="reproval_reason" type="string"/>
+        <element label="Rating" max_length="40" name="rating" type="string"/>
+        <element label="Media" max_length="32" name="media" reference="x_1974937_nowflix_media" type="reference"/>
+    </element>
+</database>
