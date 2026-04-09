@@ -11,11 +11,11 @@
         <element label="Genre" max_length="1024" name="genre" reference="x_1974937_nowflix_genre" type="glide_list"/>
         <element label="Website" max_length="1024" name="website" type="url"/>
         <element label="Poster" max_length="1024" name="poster" type="url"/>
-        <element label="IMDB Rating" max_length="40" name="imdb_rating" type="string"/>
+        <element default="0" label="IMDB Rating" max_length="40" name="imdb_rating" type="string"/>
         <element display="true" label="Title" max_length="250" name="title" type="string"/>
         <element label="Writers" max_length="40" name="writers" type="string"/>
         <element default="0" label="Average rating" max_length="40" name="average_rating" type="float"/>
-        <element label="Metascore" max_length="40" name="metascore" type="string"/>
+        <element default="0" label="Metascore" max_length="40" name="metascore" type="string"/>
         <element label="Awards" max_length="250" name="awards" type="string"/>
         <element label="Release Date" max_length="255" name="release_date" type="glide_date"/>
         <element label="Synopsys" max_length="40" name="synopsys" type="string"/>
