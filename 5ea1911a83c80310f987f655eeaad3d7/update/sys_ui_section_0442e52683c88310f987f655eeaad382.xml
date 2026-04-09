@@ -4,13 +4,13 @@
             <element>title</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>17f6f92e834c8310f987f655eeaad3b7</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>768db5fa830c0710f987f655eeaad340</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>93f6f92e834c8310f987f655eeaad3b8</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>3e8db5fa830c0710f987f655eeaad341</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>release_date</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>13f6f92e834c8310f987f655eeaad3b9</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>ba8db5fa830c0710f987f655eeaad342</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>9ff6f92e834c8310f987f655eeaad3b9</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>3a8db5fa830c0710f987f655eeaad343</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>type</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>1ff6f92e834c8310f987f655eeaad3ba</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>b68db5fa830c0710f987f655eeaad344</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.end_split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>9bf6f92e834c8310f987f655eeaad3bb</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>368db5fa830c0710f987f655eeaad345</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>.begin_split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>1bf6f92e834c8310f987f655eeaad3bc</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>b28db5fa830c0710f987f655eeaad346</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>genre</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>97f6f92e834c8310f987f655eeaad3bd</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>328db5fa830c0710f987f655eeaad347</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>.split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>17f6f92e834c8310f987f655eeaad3be</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>768db5fa830c0710f987f655eeaad354</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>category</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>93f6f92e834c8310f987f655eeaad3bf</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>f28db5fa830c0710f987f655eeaad355</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>.end_split</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>13f6f92e834c8310f987f655eeaad3c0</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>728db5fa830c0710f987f655eeaad356</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>synopsys</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>9ff6f92e834c8310f987f655eeaad3c0</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>fe8db5fa830c0710f987f655eeaad356</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -172,13 +172,13 @@
             <element>production</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>1ff6f92e834c8310f987f655eeaad3c1</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>7e8db5fa830c0710f987f655eeaad357</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -186,13 +186,13 @@
             <element>writers</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>9bf6f92e834c8310f987f655eeaad3c2</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>fa8db5fa830c0710f987f655eeaad358</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -200,13 +200,13 @@
             <element>website</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>1bf6f92e834c8310f987f655eeaad3c3</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>7a8db5fa830c0710f987f655eeaad359</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -214,69 +214,13 @@
             <element>poster</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>97f6f92e834c8310f987f655eeaad3c4</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>f68db5fa830c0710f987f655eeaad35a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>16</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>17f6f92e834c8310f987f655eeaad3c5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>average_rating</element>
-            <position>17</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>93f6f92e834c8310f987f655eeaad3c6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>18</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>13f6f92e834c8310f987f655eeaad3c7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>metascore</element>
-            <position>19</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>9ff6f92e834c8310f987f655eeaad3c7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">0442e52683c88310f987f655eeaad382</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

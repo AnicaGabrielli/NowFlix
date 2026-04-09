@@ -4,41 +4,69 @@
             <element>imdb_rating</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>97f6f92e834c8310f987f655eeaad3d5</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>f68db5fa830c0710f987f655eeaad374</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ratings" display_value="Ratings" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">88f5f9aa834c8310f987f655eeaad341</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>average_rating</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>768db5fa830c0710f987f655eeaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ratings" display_value="Ratings" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">88f5f9aa834c8310f987f655eeaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>17f6f92e834c8310f987f655eeaad3d6</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>f28db5fa830c0710f987f655eeaad376</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ratings" display_value="Ratings" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">88f5f9aa834c8310f987f655eeaad341</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>awards</element>
-            <position>2</position>
+            <element>metascore</element>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-07 16:16:58</sys_created_on>
-            <sys_id>93f6f92e834c8310f987f655eeaad3d7</sys_id>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>728db5fa830c0710f987f655eeaad377</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ratings" display_value="Ratings" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">88f5f9aa834c8310f987f655eeaad341</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:16:58</sys_updated_on>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>awards</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-08 11:24:05</sys_created_on>
+            <sys_id>fe8db5fa830c0710f987f655eeaad377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ratings" display_value="Ratings" name="x_1974937_nowflix_media" sys_domain="global" view="Default view">88f5f9aa834c8310f987f655eeaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-08 11:24:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
