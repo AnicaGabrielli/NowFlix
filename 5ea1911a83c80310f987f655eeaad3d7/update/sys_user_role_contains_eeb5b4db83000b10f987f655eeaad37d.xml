@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="approver_user" name="approver_user">debab85bff02110053ccffffffffffb6</contains>
+        <role display_value="x_1974937_nowflix.moderator" name="x_1974937_nowflix.moderator">6aa1911a83c80310f987f655eeaad3f7</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-09 19:27:17</sys_created_on>
+        <sys_id>eeb5b4db83000b10f987f655eeaad37d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>approver_user.x_1974937_nowflix.moderator</sys_name>
+        <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
+        <sys_update_name>sys_user_role_contains_eeb5b4db83000b10f987f655eeaad37d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-09 19:27:17</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
