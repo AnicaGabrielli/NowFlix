@@ -9,22 +9,22 @@
         <decision_type>allow</decision_type>
         <description/>
         <local_or_existing>Local</local_or_existing>
-        <name>x_1974937_nowflix_media</name>
-        <operation display_value="write">write</operation>
+        <name>x_1974937_nowflix_m2m_x_1974937_media_director</name>
+        <operation display_value="read">read</operation>
         <script/>
         <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-04-07 14:46:23</sys_created_on>
-        <sys_id>1c42656683c88310f987f655eeaad346</sys_id>
+        <sys_created_on>2026-04-10 16:43:21</sys_created_on>
+        <sys_id>87c9d96f83808b10f987f655eeaad308</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_1974937_nowflix_media</sys_name>
+        <sys_name>x_1974937_nowflix_m2m_x_1974937_media_director</sys_name>
         <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
         <sys_policy/>
         <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
-        <sys_update_name>sys_security_acl_1c42656683c88310f987f655eeaad346</sys_update_name>
+        <sys_update_name>sys_security_acl_87c9d96f83808b10f987f655eeaad308</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-07 14:46:23</sys_updated_on>
+        <sys_updated_on>2026-04-10 16:43:21</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
