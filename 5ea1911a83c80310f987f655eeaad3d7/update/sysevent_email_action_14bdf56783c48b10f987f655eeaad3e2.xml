@@ -36,7 +36,13 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p><span data-teams="true">&lt;p&gt;Hello ${opened_by.first_name}&lt;/p&gt;<br>&lt;p&gt;Thank you for your review for the ${media.type} ${media.title}.&lt;/p&gt;<br>&lt;p&gt;It is &lt;strong&gt;Reproved.&lt;/strong&gt;&lt;/p&gt;<br>&lt;p&gt;&lt;img style="width: 300px;" src="${media.poster}"&gt;&lt;/p&gt;<br>&lt;p&gt;If you want to send more reviews, click &lt;a href="/sp?id=sc_cat_item&amp;amp;sys_id=8bd0137a83888710ad5c9796feaad316"&gt;here&lt;/a&gt;&lt;/p&gt;</span></p>]]></message_html>
+        <message_html><![CDATA[<div style="font-family: Georgia, serif; background: linear-gradient(135deg, #fff1f3, #ffe2e8); padding: 28px; border-radius: 16px; color: #7a2a3b; max-width: 520px; border: 1px solid #f6c5cf; box-shadow: 0 6px 18px rgba(122, 42, 59, 0.15);">
+<p style="font-size: 1.4em; font-weight: bold; color: #7a2a3b; margin-bottom: 10px;">Hello ${opened_by.first_name},</p>
+<p style="font-size: 1.05em; line-height: 1.5; color: #8e3b4d;">Thank you for your review for the <strong>${media.type}</strong> <em>${media.title}</em>.</p>
+<p style="font-size: 1.2em; margin: 18px 0; color: #b43f55; font-weight: bold;">It is <strong>Reproved.</strong></p>
+<p><img style="width: 300px; border-radius: 14px; box-shadow: 0 4px 14px rgba(122, 42, 59, 0.25); margin: 16px 0;" src="${media.poster}" alt="Poster"></p>
+<p style="margin-top: 20px; font-weight: 500; color: #8e3b4d;">If you want to send more reviews, /sp?id=sc_cat_item&amp;sys_id=8bd0137a83888710ad5c9796feaad316.</p>
+</div>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Review Repproved Notification</name>
@@ -58,7 +64,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>14bdf56783c48b10f987f655eeaad3e2</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Review Repproved Notification</sys_name>
         <sys_overrides/>
         <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
@@ -66,7 +72,7 @@
         <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
         <sys_update_name>sysevent_email_action_14bdf56783c48b10f987f655eeaad3e2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-10 19:33:26</sys_updated_on>
+        <sys_updated_on>2026-04-12 23:01:28</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

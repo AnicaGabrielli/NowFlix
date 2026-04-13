@@ -36,7 +36,13 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p><span data-teams="true">&lt;p&gt;Hello ${opened_by.first_name}&lt;/p&gt;<br>&lt;p&gt;Thank you for your review for the ${media.type} ${media.title}.&lt;/p&gt;<br>&lt;p&gt;It is &lt;strong&gt;Approved.&lt;/strong&gt;&lt;/p&gt;<br>&lt;p&gt;&lt;img style="width: 300px;" src="${media.poster}"&gt;&lt;/p&gt;<br>&lt;p&gt;If you want to send more reviews, click &lt;a href="/sp?id=sc_cat_item&amp;amp;sys_id=8bd0137a83888710ad5c9796feaad316"&gt;here&lt;/a&gt;&lt;/p&gt; </span></p>]]></message_html>
+        <message_html><![CDATA[<div style="font-family: 'Segoe UI', Arial, sans-serif; background: linear-gradient(135deg, #e8fff3, #f3fff9); padding: 26px; border-radius: 14px; border: 1px solid #b6e8cf; box-shadow: 0 4px 15px rgba(0,0,0,0.08); color: #1c5e3c; max-width: 520px;">
+<p style="font-size: 1.4em; font-weight: 600; margin-bottom: 10px; color: #157347;">Hello ${opened_by.first_name},</p>
+<p style="font-size: 1.05em; line-height: 1.6;">Thank you for your review for the <strong>${media.type}</strong> <em>${media.title}</em>.</p>
+<p style="font-size: 1.25em; font-weight: bold; margin: 20px 0 12px 0; color: #0f8a4a;">✅ Approved!</p>
+<div style="margin: 16px 0;"><img style="width: 300px; border-radius: 10px; box-shadow: 0 3px 12px rgba(0,0,0,0.15);" src="${media.poster}"></div>
+<p style="margin-top: 18px; font-size: 1em; color: #1c5e3c;">If you want to send more reviews, click <a style="color: #0f8a4a; font-weight: 600; text-decoration: none;" href="/sp?id=sc_cat_item&amp;sys_id=8bd0137a83888710ad5c9796feaad316">here</a>.</p>
+</div>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Review Approved Notification</name>
@@ -58,7 +64,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4d3ab92383c48b10f987f655eeaad3bf</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Review Approved Notification</sys_name>
         <sys_overrides/>
         <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
@@ -66,7 +72,7 @@
         <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
         <sys_update_name>sysevent_email_action_4d3ab92383c48b10f987f655eeaad3bf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-10 19:33:04</sys_updated_on>
+        <sys_updated_on>2026-04-12 23:19:17</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
