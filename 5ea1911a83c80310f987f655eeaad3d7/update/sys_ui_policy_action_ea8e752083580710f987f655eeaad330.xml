@@ -19,7 +19,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-04-13 21:59:19</sys_updated_on>
         <table>x_1974937_nowflix_media</table>
-        <ui_policy display_value="Show release date or release year">3bad39ac83180710f987f655eeaad383</ui_policy>
+        <ui_policy display_value="Show year until full date is available">3bad39ac83180710f987f655eeaad383</ui_policy>
         <value/>
         <value_action>ignore</value_action>
         <visible>true</visible>

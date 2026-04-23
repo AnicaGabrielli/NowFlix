@@ -27,22 +27,22 @@
 
 }]]></script_true>
         <set_values/>
-        <short_description>Read only</short_description>
+        <short_description>Read only fields when media is not empty</short_description>
         <sys_class_name>catalog_ui_policy</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-08 20:02:53</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e724fffa83884710f987f655eeaad320</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Read only</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Read only fields when media is not empty</sys_name>
         <sys_overrides/>
         <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
         <sys_policy/>
         <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
         <sys_update_name>catalog_ui_policy_e724fffa83884710f987f655eeaad320</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-08 20:11:09</sys_updated_on>
+        <sys_updated_on>2026-04-19 14:22:05</sys_updated_on>
         <table/>
         <ui_type>0</ui_type>
         <va_supported>true</va_supported>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1974937_nowflix.ReviewableMediaUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>ReviewableMediaUtils</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var ReviewableMediaUtils = Class.create();
+ReviewableMediaUtils.prototype = {
+    initialize: function() {
+    },
+	getQualifier: function(){
+		var reviewedMediaIds = this._getReviewedMediaIds();
+		if(reviewedMediaIds.length === 0){
+			return "active=true";
+		}
+		return "active=true^sys_idNOT IN" + reviewedMediaIds.join(",");
+	},
+
+	_getReviewedMediaIds:function(){
+		var mediaIds = [];
+		var grReview = new GlideRecord("x_1974937_nowflix_review");
+		grReview.addQuery("sys_created_by", gs.getUserName());
+		grReview.addQuery("state","!=", "reject");
+		grReview.addNotNullQuery("media");
+		grReview.query();
+		while(grReview.next()){
+			mediaIds.push(grReview.getValue("media"));
+		}
+		return mediaIds;
+	},
+
+    type: 'ReviewableMediaUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-22 15:04:54</sys_created_on>
+        <sys_id>ea6dae9f83108f10f987f655eeaad3ce</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ReviewableMediaUtils</sys_name>
+        <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
+        <sys_update_name>sys_script_include_ea6dae9f83108f10f987f655eeaad3ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-22 15:07:04</sys_updated_on>
+    </sys_script_include>
+</record_update>

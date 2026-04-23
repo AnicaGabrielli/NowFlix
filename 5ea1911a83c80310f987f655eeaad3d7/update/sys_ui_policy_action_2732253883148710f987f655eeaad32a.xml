@@ -19,7 +19,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-04-14 14:34:05</sys_updated_on>
         <table>x_1974937_nowflix_media</table>
-        <ui_policy display_value="Show integration failure if error">cda161f483148710f987f655eeaad351</ui_policy>
+        <ui_policy display_value="Show integration failure message">cda161f483148710f987f655eeaad351</ui_policy>
         <value/>
         <value_action>ignore</value_action>
         <visible>true</visible>

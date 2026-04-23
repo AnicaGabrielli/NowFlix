@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Suggestion">6a1aabc183544b10f987f655eeaad3e8</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-16 13:18:38</sys_created_on>
+        <sys_id>2e74279183500310f987f655eeaad3fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggestion.Nowflix Users</sys_name>
+        <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_2e74279183500310f987f655eeaad3fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-16 13:18:38</sys_updated_on>
+        <user_criteria display_value="Nowflix Users">7fd81853834cc710f987f655eeaad3b3</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>
