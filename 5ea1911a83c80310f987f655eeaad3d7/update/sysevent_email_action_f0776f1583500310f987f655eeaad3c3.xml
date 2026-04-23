@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Nowflix" name="Nowflix">069ab56383c48b10f987f655eeaad315</category>
+        <collection>x_1974937_nowflix_suggestion</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description>Notification sent when a suggestion is approved.</description>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>triggered</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<div style="font-family: 'Segoe UI', Tahoma, sans-serif; background: radial-gradient(circle at top, #eef2ff, #7c8cff 60%, #2b2f77); padding: 30px; border-radius: 18px; color: #ffffff; max-width: 560px; margin: auto; border: 2px solid #5a67ff; box-shadow: 0 10px 30px rgba(43, 47, 119, 0.5);">
+<p style="font-size: 1.6em; font-weight: bold; margin-bottom: 12px; text-shadow: 0 2px 6px rgba(0,0,0,0.25);">]]>💜<![CDATA[ Hello ${opened_by.first_name},</p>
+<p style="font-size: 1.1em; line-height: 1.6; color: #e0e7ff;">Thank you for your suggestion for the <strong style="color: #ffffff;">${type}</strong> <em style="color: #c7d2ff;">${title}</em>.</p>
+<div style="margin: 22px 0; padding: 18px; background: linear-gradient(135deg, #5a67ff, #3b3fc1); border-radius: 14px; text-align: center; box-shadow: inset 0 0 12px rgba(0,0,0,0.35);">
+<p style="font-size: 1.5em; font-weight: bold; margin: 0; letter-spacing: 1px;">✨ APPROVED</p>
+</div>
+<p style="font-size: 1.05em; color: #e0e7ff; margin-top: 20px; line-height: 1.6;">Your suggestion has been accepted and is now part of our system.</p>
+<div style="margin-top: 24px; text-align: center;"><a style="background: linear-gradient(135deg, #7c8cff, #5a67ff); color: #ffffff; padding: 14px 22px; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 1.05em; box-shadow: 0 4px 14px rgba(0,0,0,0.35); display: inline-block;" href="#"> ]]>🚀<![CDATA[ Send Another Suggestion </a></div>
+<p style="margin-top: 28px; font-size: 0.9em; color: #c7d2ff; text-align: center; opacity: 0.9;">We appreciate your contribution!</p>
+</div>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Suggestion approved notification</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>opened_by</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>${number} - ${media.title} Review Approved</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-16 13:31:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f0776f1583500310f987f655eeaad3c3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Suggestion approved notification</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
+        <sys_update_name>sysevent_email_action_f0776f1583500310f987f655eeaad3c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-19 18:49:56</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

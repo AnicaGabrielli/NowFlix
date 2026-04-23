@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="metric_definition">
+    <metric_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <field>state</field>
+        <name>Review State</name>
+        <number>MTRC0010003</number>
+        <order>100</order>
+        <script/>
+        <sys_class_name>metric_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-22 20:21:39</sys_created_on>
+        <sys_id>117ef79b83988f10f987f655eeaad3c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Review State</sys_name>
+        <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
+        <sys_update_name>metric_definition_117ef79b83988f10f987f655eeaad3c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-22 20:21:39</sys_updated_on>
+        <table>x_1974937_nowflix_review</table>
+        <timeline>false</timeline>
+        <type>field_value_duration</type>
+    </metric_definition>
+</record_update>

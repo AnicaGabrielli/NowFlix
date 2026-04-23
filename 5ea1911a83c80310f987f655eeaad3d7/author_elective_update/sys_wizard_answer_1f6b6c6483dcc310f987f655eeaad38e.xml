@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Turma 3 Shark</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Turma 3 Shark</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">747fc2bc9d12321055903da570aff023</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-13 15:54:41</sys_created_on>
+        <sys_id>1f6b6c6483dcc310f987f655eeaad38e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Turma 3 Shark</sys_name>
+        <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
+        <sys_update_name>sys_wizard_answer_1f6b6c6483dcc310f987f655eeaad38e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-13 15:54:41</sys_updated_on>
+        <table/>
+        <target_url>x_1974937_nowflix_turma_3_shark.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</application>
+        <file_path/>
+        <instance_id>faa15699eb6022d8e483f459bad0cd92</instance_id>
+        <instance_name>dev312147</instance_name>
+        <name>sys_wizard_answer_1f6b6c6483dcc310f987f655eeaad38e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Turma 3 Shark</answer><button_label/><dependent_value/><element/><name>Turma 3 Shark</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">747fc2bc9d12321055903da570aff023</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-13 15:54:41</sys_created_on><sys_id>1f6b6c6483dcc310f987f655eeaad38e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Turma 3 Shark</sys_name><sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package><sys_policy/><sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope><sys_update_name>sys_wizard_answer_1f6b6c6483dcc310f987f655eeaad38e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-13 15:54:41</sys_updated_on><table/><target_url>x_1974937_nowflix_turma_3_shark.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-441607646</payload_hash>
+        <record_name>Turma 3 Shark</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-19 12:47:51</sys_created_on>
+        <sys_id>343a361e83588710f987f655eeaad3e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19da5c8758c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-19 12:47:51</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>f03a361e53588710a4352507261809e4</update_guid>
+        <update_guid_history>f03a361e53588710a4352507261809e4:-441607646</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-19 12:47:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>6114111c76b54d08807ed14dc23389b1</sys_id>
+        <sys_metadata>1f6b6c6483dcc310f987f655eeaad38e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Turma 3 Shark</sys_name>
+        <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
+        <sys_parent display_value="Task">747fc2bc9d12321055903da570aff023</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
+        <sys_scope_delete display_value="">062bf7669df7444085347bd61e2dfe90</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_1f6b6c6483dcc310f987f655eeaad38e</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_1f6b6c6483dcc310f987f655eeaad38e">343a361e83588710f987f655eeaad3e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-19 12:47:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

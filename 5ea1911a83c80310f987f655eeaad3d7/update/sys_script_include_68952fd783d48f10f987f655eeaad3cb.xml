@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1974937_nowflix.NowflixUtilsV2</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>NowflixUtilsV2</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var NowflixUtilsV2 = Class.create();
+NowflixUtilsV2.prototype = {
+    initialize: function() {},
+    refeQulMedia: function() {
+		var moviesNotToBeShown = [];
+        var grReview = new GlideRecord("x_1974937_nowflix_review");
+        grReview.addEncodedQuery("opened_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe^state!=4");
+        grReview.query();
+
+        while (grReview.next()) {
+                moviesNotToBeShown.push(grReview.media.sys_id.toString());
+        }
+		var moviesToBeShown = [];
+		var grMedia = new GlideRecord("x_1974937_nowflix_media");
+		grMedia.addQuery("state", "3");
+		grMedia.query();
+
+		while(grMedia.next()){
+			if(moviesNotToBeShown.indexOf(grMedia.getUniqueValue())==-1){
+				moviesToBeShown.push(grMedia.getUniqueValue());
+			}
+		}
+
+        return "sys_idIN" + moviesToBeShown.join(",");
+    },
+
+    type: 'NowflixUtilsV2'
+};
+]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-22 18:31:15</sys_created_on>
+        <sys_id>68952fd783d48f10f987f655eeaad3cb</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>NowflixUtilsV2</sys_name>
+        <sys_package display_value="NowFlix" source="x_1974937_nowflix">5ea1911a83c80310f987f655eeaad3d7</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NowFlix">5ea1911a83c80310f987f655eeaad3d7</sys_scope>
+        <sys_update_name>sys_script_include_68952fd783d48f10f987f655eeaad3cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-22 18:55:10</sys_updated_on>
+    </sys_script_include>
+</record_update>

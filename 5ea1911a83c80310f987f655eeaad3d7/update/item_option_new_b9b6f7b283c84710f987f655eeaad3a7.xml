@@ -20,7 +20,7 @@
         <dynamic_default_value/>
         <dynamic_ref_qual/>
         <dynamic_value_dot_walk_path>poster</dynamic_value_dot_walk_path>
-        <dynamic_value_field display_value="Which movie would you like to review?">fdeed3f283084710f987f655eeaad3ae</dynamic_value_field>
+        <dynamic_value_field display_value="Which media would you like to review?">fdeed3f283084710f987f655eeaad3ae</dynamic_value_field>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field/>

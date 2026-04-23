@@ -22,7 +22,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-04-15 19:47:24</sys_updated_on>
         <table/>
-        <ui_policy display_value="Mandatory">f0b3fb8583944b10f987f655eeaad353</ui_policy>
+        <ui_policy display_value="Mandatory Fields">f0b3fb8583944b10f987f655eeaad353</ui_policy>
         <value/>
         <value_action>ignore</value_action>
         <variable>title</variable>
